@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LED_Indicator_PCB.PrjPcb]
+   Generated File[LED_Indicator_Legend_Top.gbr]
+   Generated File[LED_Indicator_Soldermask_Top.gbr]
+   Generated File[LED_Indicator_Copper_Signal_Top.gbr]
+   Generated File[LED_Indicator_Copper_Signal_Bot.gbr]
+   Generated File[LED_Indicator_Soldermask_Bot.gbr]
+   Generated File[LED_Indicator_Legend_Bot.gbr]
+   Generated File[LED_Indicator_Mechanical_1.gbr]
+   Generated File[LED_Indicator_Profile.gbr]
+   Generated File[LED_Indicator.EXTREP]
+   Generated File[LED_Indicator.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 10:33:12 PM On 04-Jul-26
