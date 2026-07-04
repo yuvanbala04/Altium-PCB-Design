@@ -40,10 +40,15 @@ The circuit is powered through a 2-pin connector. A 475 Ω resistor limits the c
 ---
 
 ## Images
-Add the following screenshots:
-- Schematic
-- PCB 2D Layout
-- PCB 3D View
+
+### Schematic
+![Schematic](Images/schematic.png)
+
+### PCB Layout
+![PCB 2D](Images/pcb_2d.png)
+
+### 3D View
+![PCB 3D](Images/pcb_3d.png)
 
 ---
 
@@ -56,14 +61,3 @@ Through this project, I learned:
 - Generating Gerber files for manufacturing
 
 ---
-
-## Images
-
-### Schematic
-![Schematic](Images/schematic.png)
-
-### PCB Layout
-![PCB 2D](Images/pcb_2d.png)
-
-### 3D View
-![PCB 3D](Images/pcb_3d.png)
